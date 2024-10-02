@@ -3572,7 +3572,7 @@
   "FFlagEasierUnmutingVoiceParticipantsMutedReducer": true,
   "FFlagEditableImageBasicReplicationEnabled": false,
   "FFlagEditableImageBasicReplicationEnabled_PlaceFilter": "true;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926",
-  "FFlagEditableImageEnabled": false,
+  "FFlagEditableImageEnabled": true,
   "FFlagEditableImageEnabled_PlaceFilter": "true;18235917861;13673924577;13674045329;14023043787;14703601027;12123120785;12339044345;13344085926;16570073256;17362271377;17745270078",
   "FFlagEditableImageFromImageContent": true,
   "FFlagEditableImageMeshBetaFeature": true,
